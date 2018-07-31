@@ -1,0 +1,31 @@
+h1{
+  color: darkgreen;
+  font-weight: 400;
+  }
+
+h2{
+  color: darkblue;
+  }
+
+h3{
+   color: darkblue;
+  }
+
+p{
+  font-style: italic;
+  color: darkblue;
+}
+
+ul{
+  color: grey;
+  list-style-type: none;
+}
+
+body{
+  text-align: center;
+  background-color: cyan;
+}
+
+li{
+  align-items: right;
+}
