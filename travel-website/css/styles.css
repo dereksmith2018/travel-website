@@ -1,17 +1,21 @@
 h1{
+  text-align: center;
   color: darkgreen;
-  font-weight: 400;
+  font-weight: 200px;
   }
 
 h2{
+  text-align: center;
   color: darkblue;
   }
 
 h3{
+  text-align: center;
    color: darkblue;
   }
 
 p{
+  text-align: center;
   font-style: italic;
   color: darkblue;
 }
@@ -23,9 +27,12 @@ ul{
 
 body{
   text-align: center;
+  text-align: center;
   background-color: cyan;
 }
 
 li{
-  align-items: right;
+  align-items: center;
+  text-align: center;
+  list-style-type: none;
 }
